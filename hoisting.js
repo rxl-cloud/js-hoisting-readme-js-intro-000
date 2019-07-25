@@ -5,7 +5,7 @@ function callMe() {
   console.log("so call me");
   return lyric;
   var lyric;
-  word = "maybe";
+  lyric = "maybe";
 }
 
 
